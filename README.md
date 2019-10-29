@@ -97,8 +97,10 @@ Iquidus Explorer is intended to be generic so it can be used with any wallet fol
 
 ### Donate (Left Luke's addresses, please contribute!)  
 
-    BTC: 168hdKA3fkccPtkxnX8hBrsxNubvk4udJi
-    JBS: JZp9893FMmrm1681bDuJBU7c6w11kyEY7D (no longer valid, use BTC address)
+### Bitcoin donations welcome: 3BJbCUdJ8mhZn9B2Ncz1JBBEbe1R8816AW
+### Litcoin donations welcome: MQRLB7gYHBAZuY8erwbMTguG24CBAwgwo4
+### Dash coin donations welcome: XsXNddLuVLc1b1Q2DDqniSvwYbpq7F2BLe
+
 
 ### Known Issues
 
